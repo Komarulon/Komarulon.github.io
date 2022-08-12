@@ -1,0 +1,21 @@
+{
+  "name": "Super Metroid Redesign Randomizer",
+  "packages": [
+    {
+      "name": "Super Metroid Redesign Randomizer",
+      "author": "Komaru",
+      "game_name": "Super Metroid Redesign Randomizer",
+      "version": "1.0.0.2",
+      "flags": [ "map" ],
+      "required_app_version": "2.3.0.0",
+      "uid": "smredesignrando",
+      "link": "https://komarulon.github.io/SuperMetroidRedesignRandomizer/smredesignrando.zip",
+      "variants": [
+        {
+          "name": "Standard Tracker",
+          "flags": [ "map" ]
+        },
+      ]
+    }
+  ]
+}
