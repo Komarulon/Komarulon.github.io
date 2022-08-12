@@ -9,13 +9,7 @@
       "flags": [ "map" ],
       "required_app_version": "2.3.0.0",
       "uid": "smredesignrando",
-      "link": "https://komarulon.github.io/SuperMetroidRedesignRandomizer/smredesignrando.zip",
-      "variants": [
-        {
-          "name": "Standard Map Tracker",
-          "flags": [ "map" ]
-        },
-      ]
+      "link": "https://komarulon.github.io/SuperMetroidRedesignRandomizer/smredesignrando.zip"
     }
   ]
 }
